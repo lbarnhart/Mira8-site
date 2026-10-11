@@ -1,0 +1,12 @@
+title: Mira Support
+description: Privacy, terms, and support information for the Mira iOS app.
+theme: minima
+url: https://lbarnhart.github.io
+baseurl: /Mira8-site
+header_pages:
+  - support.md
+  - privacy.md
+  - terms.md
+  - methodology.md
+exclude:
+  - README.md
